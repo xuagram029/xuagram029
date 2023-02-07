@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @xuagram029
-- 👀 I’m interested in Web Developmen
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ... MERN Stack
 - 💞️ I’m looking to collaborate on ... my future projects
 - 📫 How to reach me ... [Just message me here...](https://www.facebook.com/Xuagram029/)
